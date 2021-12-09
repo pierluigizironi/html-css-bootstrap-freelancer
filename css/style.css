@@ -1,9 +1,17 @@
 header {
-  height: 100px;
+  height: 120px;
 }
 
-.darkblue {
+.about-me {
+  height: 350px;
+}
+
+.darkblue-bg {
   background-color: #2c3e50;
+}
+
+.green-bg {
+  background-color: #1abc9c;
 }
 
 .fa-bars {

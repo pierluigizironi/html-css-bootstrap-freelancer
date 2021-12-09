@@ -2,10 +2,6 @@ header {
   height: 120px;
 }
 
-.about-me {
-  height: 350px;
-}
-
 .darkblue-bg {
   background-color: #2c3e50;
 }
@@ -14,10 +10,42 @@ header {
   background-color: #1abc9c;
 }
 
+.red-bg {
+  background-color: #ba4b63;
+}
+
+.aquamarine-bg {
+  background-color: #1ea4b6;
+}
+
+.black-bg {
+  background-color: #140f0f;
+}
+
+.blue-bg {
+  background-color: #1d83c2;
+}
+
+.trueblue-bg {
+  background-color: #1c38b5;
+}
+
+.beige-bg {
+  background-color: #ccb2a3;
+}
+
+.white-bg {
+  background-color: #ffffff;
+}
+
 .fa-bars {
   font-size: 50px;
 }
 
 div[class^="col"] {
   border: solid red 2px;
+}
+
+.portfolio .col-12 {
+  height: 300px;
 }

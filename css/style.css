@@ -1,0 +1,15 @@
+header {
+  height: 100px;
+}
+
+.darkblue {
+  background-color: #2c3e50;
+}
+
+.fa-bars {
+  font-size: 50px;
+}
+
+div[class^="col"] {
+  border: solid red 2px;
+}

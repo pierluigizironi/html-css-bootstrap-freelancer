@@ -2,6 +2,10 @@ header {
   height: 120px;
 }
 
+.copyright {
+  height: 50px;
+}
+
 .darkblue-bg {
   background-color: #2c3e50;
 }
@@ -36,6 +40,14 @@ header {
 
 .white-bg {
   background-color: #ffffff;
+}
+
+.white-bg {
+  background-color: #ffffff;
+}
+
+.bluenavy-bg {
+  background-color: #3a546d;
 }
 
 .fa-bars {

@@ -3,7 +3,7 @@ header {
 }
 
 .copyright {
-  height: 50px;
+  height: 100px;
 }
 
 .darkblue-bg {
@@ -24,4 +24,17 @@ header {
 
 .fa-bars {
   font-size: 50px;
+}
+
+.btn-outline-light {
+  display: inline-flex;
+}
+
+hr {
+  width: 50px;
+}
+
+a {
+  color: #1abc9c;
+  text-decoration: none;
 }

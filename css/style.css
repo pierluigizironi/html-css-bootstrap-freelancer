@@ -38,3 +38,25 @@ a {
   color: #1abc9c;
   text-decoration: none;
 }
+
+.separator {
+  margin: 20px 0px;
+}
+
+.bar {
+  height: 4px;
+  width: 100px;
+  display: inline-block;
+}
+
+.fa-star {
+  padding: 0px 20px;
+}
+
+.fa-star {
+  font-size: 30px;
+}
+
+.bar {
+  margin-bottom: 10px;
+}

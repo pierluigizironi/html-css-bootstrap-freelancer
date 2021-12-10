@@ -58,10 +58,6 @@ header {
   font-size: 40px;
 }
 
-div[class^="col"] {
-  border: solid red 2px;
-}
-
 .images {
   height: 300px;
 }
